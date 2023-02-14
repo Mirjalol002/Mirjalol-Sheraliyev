@@ -1,11 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=ELBEK%20KHUSHBOQOF%20&desc=.NET%20SOFTWARE%20ENGINEER🙂&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=d0b0ff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Mirjalol%20KSheraliyev%20&desc=.NET%20SOFTWARE%20ENGINEER🙂&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=d0b0ff)
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 - 🌱 I am currently a .Net developer
-- 📫 How to reach me: [telegram](https://t.me/khushboqof), [linkedin](https://www.linkedin.com/in/elbek-khushboqoff-095779239/)
+- 📫 How to reach me: [telegram](https://t.me/Msheraliyev), [linkedin](https://www.linkedin.com/in/mirjalol-sheraliev-4988ba238/)
 - ⚙️ My specialty : `.net`, `asp.net`, `postgresql`
-- ⚡ Fun fact :- Games and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Reading books and learning new Technologies.
 <br>
 
 <br>
@@ -38,17 +38,17 @@
       width="40" height="40" /> </a> </p>
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboqof&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="khushboqof" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Mirjalol002&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="Mirjalol002" 
     bg_color=#808080/></p>
 <br>
 
 
 <div align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=khushboqof&theme=algolia&hide_border=true&count_private=true&show_icons=true">
+    <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=Mirjalol002&theme=algolia&hide_border=true&count_private=true&show_icons=true">
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-    <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khushboqof&theme=algolia&hide_border=true">
+    <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mirjalol002&theme=algolia&hide_border=true">
 
 </div>
 
