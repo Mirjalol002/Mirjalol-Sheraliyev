@@ -52,5 +52,5 @@
 
 </div>
 
-[khushboqof](https://github.com/khushboqof)
+[Sheraliyev Mirjalol](https://github.com/Mirjalol002)
 
