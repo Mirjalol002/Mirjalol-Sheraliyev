@@ -53,4 +53,3 @@
 </div>
 
 [Sheraliyev Mirjalol](https://github.com/Mirjalol002)
-
